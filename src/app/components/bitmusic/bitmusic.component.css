@@ -1,0 +1,154 @@
+.barra img{
+    border-radius: 50%;
+    margin-left: 20px;   
+}
+
+.imagen, span{
+    color: white;
+    font-size: 1.5rem;
+    padding: 5px;
+}
+
+
+.botones li {
+    margin-top: 10px;
+    padding: 10px;   
+}
+
+.usuario{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 10px;  
+}
+
+.imagen img{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 40px;
+    margin-right: 10px;
+}
+
+
+.usuario img{
+    margin-left: 10px;
+    margin-right: 40px; 
+    margin-bottom: 10px;
+}
+
+
+.formulario{
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(../bitmusic/imagenes/banner-bit-music.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 580px;;
+}
+
+.formulario .interno h1{
+    color: white;
+    padding: 50px;;
+    background-color: rgba(94, 91, 95, 0.685);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 600px;
+    text-align: center;
+    border-radius: 50px;
+
+}
+
+.boton button{
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+
+.boton a{
+    text-decoration: none;
+}
+
+.form-interno{
+   padding: 20px;
+   background: rgba(133, 124, 11, 0.685);
+   border: solid 2px grey;
+   border-radius: 10px;   
+}
+
+.boton{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.titulo, h1 {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    color: aliceblue;
+}
+
+.footer-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-img img{
+    
+    border-radius: 50px;
+    margin: 30px;
+    
+}
+
+.footer-uno h2{
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.footer-uno p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.footer-uno button{
+    margin-bottom: 20px;
+}
+
+.footer-dos h3, h4, a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-dos h3{
+    margin-top: 60px;
+    font-size: 30px;
+}
+
+
+.footer-dos a{
+    margin-top: 30px;
+    color:#F4A405;
+    font-size: 15px;
+}
+
+.copy{
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #F4A405;
+    color: black
+
+
+}
